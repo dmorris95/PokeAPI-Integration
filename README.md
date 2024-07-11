@@ -1,5 +1,6 @@
 Welcome to Pokemon API Integration!
 
+GITHUB: https://github.com/dmorris95/PokeAPI-Integration
 
 Providing a way to search for a specific pokemon and get a more extensive look at its information. This application uses Bootstrap to assist with styling to replicate the look of a pokeball's colors with the menus. This application also uses javascript to connect to the PokeAPI and retrieve data based on the user's search.
 
